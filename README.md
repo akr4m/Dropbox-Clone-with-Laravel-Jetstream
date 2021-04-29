@@ -4,7 +4,7 @@ Demo Project for A Dropbox Clone with Laravel Jetstream
 
 ### Controllers
 
-[FileController](https://github.com/akr4m/Dropbox-Clone-with-Laravel-Jetstream/blob/main/app/Http/Controllers/FileController.php)
+- [FileController](https://github.com/akr4m/Dropbox-Clone-with-Laravel-Jetstream/blob/main/app/Http/Controllers/FileController.php)
 
 ### Web Routes
 
